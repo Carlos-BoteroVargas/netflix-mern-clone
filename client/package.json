@@ -2,11 +2,20 @@
   "name": "netflix-mern-clone",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/Carlos-BoteroVargas/netflix-mern-clone",
+  "license": "MIT",
+  "author": {
+    "name": "Carlos Botero-Vargas",
+    "email": "cbotero-vargas@outlook.com",
+    "url": "https://www.linkedin.com/in/carlosb-v/"
+  },
   "dependencies": {
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.2"
+    "sass": "^1.35.2"
   },
   "scripts": {
     "start": "react-scripts start",
