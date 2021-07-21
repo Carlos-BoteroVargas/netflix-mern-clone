@@ -1,0 +1,27 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "backend for Netflix mockup clone",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlos-BoteroVargas/netflix-mern-clone.git"
+  },
+  "author": "Carlos Botero-Vargas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Carlos-BoteroVargas/netflix-mern-clone/issues"
+  },
+  "homepage": "https://github.com/Carlos-BoteroVargas/netflix-mern-clone#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.3",
+    "nodemon": "^2.0.12"
+  }
+}
